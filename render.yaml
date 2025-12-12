@@ -1,4 +1,4 @@
-services:
+erservices:
 
 * type: web
   name: n8n
@@ -18,4 +18,4 @@ services:
   * key: N8N_PORT
     value: 5678
   * key: N8N_HOST
-    value: n8n.onrender.com
+    value: n8n-render.onrender.com
